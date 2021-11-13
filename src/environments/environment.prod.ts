@@ -21,7 +21,7 @@ export const environment = {
   assetDecimals: 18,
   chainId: 137,
   assetIndex: 6,
-  assetSymbol: "POND"
+  assetSymbol: "YFI"
 };
 
 /*
