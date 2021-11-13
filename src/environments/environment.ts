@@ -19,7 +19,7 @@ export const environment = {
   tidalDecimals: 18,
   usdcDecimals: 6,
   assetDecimals: 18,
-  assetPrecision: 2,
+  assetPrecision: 6,
   chainId: 137,
   assetIndex: 6,
   assetSymbol: "YFI"
